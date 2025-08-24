@@ -20,7 +20,7 @@ const Home = () => {
       {/* Button */}
       <div className="flex gap-4">
         <a
-          href="/Price"
+          href="/start"
           className="px-6 py-3 rounded-xl bg-indigo-600 hover:bg-indigo-700 transition text-white font-semibold shadow-md"
         >
           Get Started
